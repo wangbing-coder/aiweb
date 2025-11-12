@@ -78,3 +78,10 @@ deactivate
 ## License
 
 AWS Health Tools are licensed under the Apache 2.0 License
+
+## AI WEB
+[how attractive am i](https://attractivenessscale.com/)
+
+[condolence message](https://condolence-message.com/)
+
+[image describer](https://image-describer.org/)
